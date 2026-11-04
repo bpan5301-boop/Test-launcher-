@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Launcher2"
+rootProject.name = "Test-launcher-"
 include(":app")
